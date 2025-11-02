@@ -1,6 +1,11 @@
 # Datasets
 Known and Very Important Datasets
 
+## Blockchain
+- [AWS Public Blockchain Data](https://registry.opendata.aws/aws-public-blockchain/)
+- [Google Cloud Blockchain Analytics](https://docs.cloud.google.com/blockchain-analytics/docs/supported-datasets)
+- [Forked - Public Datasets](https://github.com/Ramaguru-Forks/public-datasets)
+
 ## NLP
 - Stanford Question Answering Dataset (SQuAD v1.1)
 - GLUE (General Language Understanding Evaluation)
